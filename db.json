@@ -1,0 +1,30 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "Precious",
+            "email": "precious@gmail.com",
+            "phone": "987654321"
+
+        },
+
+        {
+            "id": "2",
+            "name": "Joseph",
+            "email": "joseph@gmail.com",
+            "phone": "987654321"
+
+        },
+
+        {
+            "id": "3",
+            "name": "Phil",
+            "email": "phil@gmail.com",
+            "phone": "987654321"
+
+        }
+        
+        
+
+    ]
+}
